@@ -1,0 +1,6 @@
+{
+  "name": "Relay",
+  "description": "Production-grade AI automation platform with simulated in-browser MCP server, native tool calling, and human-in-the-loop approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
